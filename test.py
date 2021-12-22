@@ -1,6 +1,12 @@
+
+tall = 10
+
+
+
 def main():
-	print("Yoo dude")
+	for x in range(tall):
+		print(x, "!")
+	
 
 if __name__ == '__main__':
 	main()
-
